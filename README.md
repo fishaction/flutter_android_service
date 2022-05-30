@@ -1,6 +1,7 @@
 # get_started
 
-A new Flutter project.
+このリポジトリはFlutterでUIとServiceのやり取りをどう実装したらいいのか、考察するのを目的としたものです。  
+結果的にはService ⇔ Activity ⇔ Flutterというような形になりました。もしかしたらAwesomeなPackageによってもっと楽に実装できるかもしれませんが、あれば教えてください。
 
 ## Getting Started
 
